@@ -23,6 +23,7 @@ namespace NguyenTrungNguyen_BTVN_Tuan1_Bai4
                 Console.Write("{0}  ", i);
             Console.WriteLine();
             Console.ReadKey();
+            
         }
         static List<int> lstSoChan(int m, int n)
         {
